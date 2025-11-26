@@ -1,4 +1,4 @@
-# Archana-Project-3--Content-Monitization-Modeler
+# Archana-Project-3--Content-Monetization-Modeler
 Youtube Revenue Prediction
 
 📺 Content Monetization Modeler
