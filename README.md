@@ -111,25 +111,13 @@ Simple, interactive UI with metrics display
 
 🔍 Insights from the Project
 --
-📈 Views are the strongest predictor of revenue → Higher views consistently drive higher monetization.
+📈 **Watch_time_minutes** are the** Highest correlected** to revenue → Higher views consistently drive higher monetization.
 
-📊 Category & Device significantly affect ad revenue → Certain categories and devices (e.g., Mobile-first) yield better ad performance.
+📊 Category & Device significantly affect ad revenue → Certain categories and devices **(e.g., Mobile-first) yield better ad performance.**
 
-⚡ Gradient Boosting outperformed baseline models in predicting ad revenue with the highest R² score.
-
-🧹 Data quality improvements (handling missing values, scaling, encoding) boosted model accuracy.
+🧹 Data quality improvements **(handling missing values, scaling, encoding)** boosted model accuracy.
 
 🖥️ The Streamlit dashboard makes insights accessible to non-technical users, bridging the gap between creators and data science.
-
-📊 Future Scope
---
-📌 Add time-series forecasting for monthly/quarterly revenue prediction.
-
-📌 Explore deep learning models (e.g., Neural Networks, LSTMs) for better accuracy.
-
-📌 Automate real-time data collection via YouTube API.
-
-📌 Extend dashboard with creator-level insights (CTR, RPM, CPM).
 
 ---
 
