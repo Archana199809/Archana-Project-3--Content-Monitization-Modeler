@@ -21,7 +21,7 @@ This project combines data preprocessing, feature engineering, machine learning 
 
 ## 🛠️ Tech Stack
 
-Languages & Libraries: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+Languages & Libraries: Python, Pandas, NumPy, Scikit-learn
 
 Visualization: Seaborn, Matplotlib, Streamlit
 
