@@ -110,6 +110,7 @@ Simple, interactive UI with metrics display
 
 
 🔍 Insights from the Project
+--
 📈 Views are the strongest predictor of revenue → Higher views consistently drive higher monetization.
 
 📊 Category & Device significantly affect ad revenue → Certain categories and devices (e.g., Mobile-first) yield better ad performance.
@@ -121,6 +122,7 @@ Simple, interactive UI with metrics display
 🖥️ The Streamlit dashboard makes insights accessible to non-technical users, bridging the gap between creators and data science.
 
 📊 Future Scope
+--
 📌 Add time-series forecasting for monthly/quarterly revenue prediction.
 
 📌 Explore deep learning models (e.g., Neural Networks, LSTMs) for better accuracy.
