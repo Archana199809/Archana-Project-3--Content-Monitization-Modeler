@@ -11,9 +11,12 @@ This project combines data preprocessing, feature engineering, machine learning 
 ---
 
 **Content Strategy Optimization:** Helps creators determine what type of content yields the highest returns.
-Revenue Forecasting: Media companies can predict expected income from future video uploads.
-Creator Support Tools: Can be integrated into platforms offering analytics services to YouTubers.
-Ad Campaign Planning: Enables advertisers to forecast ROI based on content performance metrics
+
+**Revenue Forecasting:** Media companies can predict expected income from future video uploads.
+
+**Creator Support Tools:** Can be integrated into platforms offering analytics services to YouTubers.
+
+**Ad Campaign Planning:** Enables advertisers to forecast ROI based on content performance metrics
 
 
 ## 🛠️ Tech Stack
