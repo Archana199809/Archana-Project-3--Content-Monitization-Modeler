@@ -111,7 +111,7 @@ Simple, interactive UI with metrics display
 
 🔍 Insights from the Project
 --
-📈 **Watch_time_minutes** are the** Highest correlected** to revenue → Higher views consistently drive higher monetization.
+📈 **Watch_time_minutes** is the **Highly correlected** to revenue → Higher views consistently drive higher monetization.
 
 📊 Category & Device significantly affect ad revenue → Certain categories and devices **(e.g., Mobile-first) yield better ad performance.**
 
