@@ -53,6 +53,9 @@ Applied scaling for numerical features to improve ML model performance.
 🧹 Identified and highlighted missing values before data cleaning for transparency.
 
 
+<img width="1121" height="832" alt="1" src="https://github.com/user-attachments/assets/fbf92b19-261a-4e8b-95be-26fd0bff5824" />
+
+
 
 ## 3️⃣ Feature Engineering
 
@@ -92,6 +95,9 @@ R² ≈ 0.9526
 RMSE ≈ 13.480
 
 MAE ≈ 3.111
+
+<img width="1520" height="850" alt="2" src="https://github.com/user-attachments/assets/1caa61a9-f902-4eae-bcc7-742d5c3fac79" />
+
 
 ## 5️⃣ Model Deployment with Streamlit
 
